@@ -8,6 +8,6 @@ class DATABASE_CONFIG {
 		'login' => 'root',
 		'password' => '123456',
 		'database' => 'hijab',
-		'unix_socket' => '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock',
+		//'unix_socket' => '/Applications/XAMPP/xamppfiles/var/mysql/mysql.sock',
 	);
 }
